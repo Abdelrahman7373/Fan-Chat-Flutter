@@ -1,0 +1,13 @@
+# Ignore all directories
+*/
+
+# Include the 'lib' directory
+!/lib/
+
+# Ignore specific files
+/lib/firebase_options.dart
+fan_chat.iml
+analysis_options.yaml
+.metadata
+.flutter-plugins-dependencies
+.flutter-plugins
